@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 31 12:40:35 CST 2019
+maven-assembly-plugin-2.4.jar>=
+maven-assembly-plugin-2.4.jar>alimaven=
+maven-assembly-plugin-2.4.pom>alimaven=

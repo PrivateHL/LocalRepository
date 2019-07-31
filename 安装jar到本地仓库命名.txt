@@ -1,4 +1,7 @@
 ﻿https://maven.aliyun.com/mvn/search 网站下载jar 使用下面命令安装到本地maven仓库
 mvn install:install-file -Dfile=C:\Users\heling\Downloads\commons-net-1.4.1.jar -DgroupId=commons-net -DartifactId=commons-net -Dversion='1.4.1' -Dpackaging=jar
 mvn install:install-file -Dfile=C:\Users\heling\Downloads\jsch-0.1.55.jar -DgroupId='com.jcraft' -DartifactId=jsch -Dversion='0.1.55' -Dpackaging=jar
+mvn install:install-file -Dfile=E:\workspace\IDEA201803\JAVA\lib\junit-4.12.jar -DgroupId='junit' -DartifactId=junit -Dversion='4.12' -Dpackaging=jar
+mvn install:install-file -Dfile=E:\workspace\IDEA201803\JAVA\lib\hamcrest-core-1.3.jar -DgroupId='org.hamcrest' -DartifactId=hamcrest-core -Dversion='1.3' -Dpackaging=jar
+mvn install:install-file -Dfile=C:\Users\heling\Downloads\maven-assembly-plugin-2.4.jar -DgroupId='org.apache.maven.plugins' -DartifactId='maven-assembly-plugin' -Dversion='2.4' -Dpackaging=maven-plugin
 
